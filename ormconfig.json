@@ -1,6 +1,6 @@
 {
   "type": "postgres",
-  "url": "postgres://knsmdlvt:JDgu4aHgqtCxVnjOlH0VufXtEIw9PkW9@john.db.elephantsql.com/knsmdlvt",
+  
 
   "synchronize": true,
   "migrationsTableName": "custom_migration_table",
